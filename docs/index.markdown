@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Make Remembering Easier and Stronger
+Make beading happier
 
 <!--#### 快速索引
 
@@ -58,14 +58,14 @@ We will comply with the laws and related laws regarding the handling of personal
 <h3 id="contact">3. Contact
 </h3>
 
-Welcome to contact us: <a href="mailto:lingfengmarskey@gmail.com?subject=WordsIn Advisory">send E-mail</a>
+Welcome to contact us: <a href="mailto:lingfengmarskey@gmail.com?subject=Beaders Advisory">send E-mail</a>
 
 <br>
 <br>
 
-[CN]({{ site.url }}/wordsInInfo/cn)
-[TC]({{ site.url }}/wordsInInfo/tc)
-[JP]({{ site.url }}/wordsInInfo/jp)
+[CN]({{ site.url }}/BeadersInfo/cn)
+[TC]({{ site.url }}/BeadersInfo/tc)
+[JP]({{ site.url }}/BeadersInfo/jp)
 
 <!--<h3 id="notice">4. 通知
 </h3>
