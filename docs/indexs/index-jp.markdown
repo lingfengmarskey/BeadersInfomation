@@ -66,9 +66,9 @@ MarcosMang（以下「Mang」という）は、ユーザーにサービスを提
 <br>
 <br>
 
-[EN]({{ site.url }}/BeadersInfo/)
-[TC]({{ site.url }}/BeadersInfo/tc)
-[CN]({{ site.url }}/BeadersInfo/cn)
+[EN]({{ site.url }}/BeadersInfomation/)
+[TC]({{ site.url }}/BeadersInfomation/tc)
+[CN]({{ site.url }}/BeadersInfomation/cn)
 
 <!--<h3 id="notice">4. 通知
 </h3>

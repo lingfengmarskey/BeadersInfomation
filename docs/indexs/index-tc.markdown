@@ -65,9 +65,9 @@ MarcosMang（一下簡稱"Mang"）在為用戶提供服務時,會處理用戶的
 
 <br>
 <br>
-[CN]({{ site.url }}/BeadersInfo/cn)
-[JP]({{ site.url }}/BeadersInfo/jp)
-[EN]({{ site.url }}/BeadersInfo/)
+[CN]({{ site.url }}/BeadersInfomation/cn)
+[JP]({{ site.url }}/BeadersInfomation/jp)
+[EN]({{ site.url }}/BeadersInfomation/)
 
 <!--<h3 id="notice">4. 通知
 </h3>

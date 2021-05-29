@@ -63,9 +63,9 @@ Welcome to contact us: <a href="mailto:lingfengmarskey@gmail.com?subject=Beaders
 <br>
 <br>
 
-[CN]({{ site.url }}/BeadersInfo/cn)
-[TC]({{ site.url }}/BeadersInfo/tc)
-[JP]({{ site.url }}/BeadersInfo/jp)
+[CN]({{ site.url }}/BeadersInfomation/cn)
+[TC]({{ site.url }}/BeadersInfomation/tc)
+[JP]({{ site.url }}/BeadersInfomation/jp)
 
 <!--<h3 id="notice">4. 通知
 </h3>
