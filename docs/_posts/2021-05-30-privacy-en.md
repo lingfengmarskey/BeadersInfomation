@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Privacy Policy"
-date:   2020-12-12 17:21:01 +0900
+title:  "Privacy Policy(Beaders App)"
+date:   2021-05-30 15:00:00 +0900
 categories: privacy
 permalink: /privacy/en
 ---
-# Privacy Policy
+# Privacy Policy(Beaders App)
 
 MarcosMang (hereinafter referred to as "Mang") will process users' personal information when providing services to users. Therefore, by this personal information protection policy, we will establish and implement a personal information protection management system, and all staff engaged in business activities will work together to achieve proper processing of personal information.
 
@@ -22,3 +22,5 @@ Apart from the above, the user's personal information will not be provided to an
 
 ### Compliance with laws and regulations, national guidelines, and other norms
 We will comply with the laws and related laws regarding the handling of personal information, national guid.
+
+The first edition was developed on May 30, 2021.
