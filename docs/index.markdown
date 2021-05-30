@@ -54,6 +54,7 @@ Apart from the above, the user's personal information will not be provided to an
 #### Compliance with laws and regulations, national guidelines, and other norms
 We will comply with the laws and related laws regarding the handling of personal information, national guid.
 
+The first edition was formulated on May 30, 2021.
 
 <h3 id="contact">3. Contact
 </h3>
